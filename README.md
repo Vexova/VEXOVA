@@ -29,7 +29,7 @@ To empower nonprofits through student-driven technology and innovation while giv
 
 A future where students don't just learn technology — they use it to solve real problems.
 
-## 🛠️ Our Approach
+## Our Approach
 
 **Students → Skills → Solutions → Impact**
 
